@@ -1,7 +1,9 @@
-div{
+body{
     background-color: antiquewhite;
 }
 img{
-    margin-left: 50px;
+    margin-left: 80px;
     padding: 50px;
+    width : 200px;
+    height: 200px;
 }
