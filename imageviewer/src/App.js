@@ -4,8 +4,8 @@ import News from "./new";
 function App() {
   return (
     <div className="App">
-      <News/>
-      {/* <Image/> */}
+      {/* <News/> */}
+      <Image/>
     </div>
   );
 }
